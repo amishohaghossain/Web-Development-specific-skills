@@ -1,0 +1,41 @@
+2-1 Introduction to CSS Module, getting started with CSS
+2-2 Style tag, embedded style, named color, hexcode, rgb
+2-3 Background-color, height, width, font, CSS measuring units
+2-4 CSS ID, apply styles to a specific HTML element
+2-5 CSS class, apply styles to multiple elements, ID vs Class
+2-6 Style a group of elements, style a small portion of text
+2-7 Border, border radius, margin, different ways to set margin
+2-8 Padding, different ways to set padding, CSS Box model
+2-9 Text align, float, display, inline, block, inline-block, external CSS
+
+5_5-1 pseudoclass part hover all elements, hover special
+5_5-2 pseudoclass focus first child, last child, nth child, visited
+5_5-3 pseudo element before after
+5_5-4 css position static relative absolute fixed
+5_5-5 CSS specificity style order style priority
+
+
+7-1 CSS3 Module Introduction
+7-2 CSS Overflow hidden overflow scroll
+7-3 Optimize images, types of images, svg, png, jpg
+7-4 css transform and use multiple transform at the same time
+7-5 transition of css property over time
+7-6 Create simple cricket match with transition and transform
+7-7 css animation and bounce effect with balls
+7-8 flexbox, flex direction justify content align items
+7-9 CSS Grid layout template columns grid gap
+7-10 create calendar using css grid and flex box
+7-11 css media query based on device and using flexbox
+
+
+
+8-1 css position more explanation relative absolute
+8-2 Apply relative position in a photo album
+8-4 CSS Grid Layout Extra explanation and compare with flexbox
+8-5 More discussion about display inline block inline-block
+8-6 inline css when and how to use inline css
+8-7 Use grid layout and flex layout at the same time
+8-8 Use Media query to make website responsive on tablet and mobile
+8-9 Set Responsive blog and shared responsiveness
+8-10 how to use font awesome to show icons in your project
+
